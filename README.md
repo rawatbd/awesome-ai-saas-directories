@@ -2,7 +2,7 @@
 
 A curated list of **106** AI, SaaS, startup-launch and software-review directories with a working public listing route.
 
-The names, URLs, categories, priority tiers, costs and notes come from [GearPicked's checked directory list](https://gearpicked.com/directories/), which was source-checked on each directory's own public pages on 9–10 November 2026 (IST). Homepage URLs were rechecked on 15 November 2026 (IST); all 106 hosts responded as live (five returned HTTP 403, which is treated as a live host with bot protection, not a dead link). Two URLs had moved and are listed at their current destinations.
+The names, URLs, categories, priority tiers, costs and notes come from [GearPicked's checked directory list](https://gearpicked.com/directories/), which was source-checked on each directory's own public pages on 9–10 November 2026 (IST). Homepage URLs were rechecked on 15 November 2026 (IST); all 106 hosts responded as live (five returned HTTP 403, which is treated as a live host with bot protection, not a dead link). Two URLs had moved and are listed at their current destinations. Access labels for the five rows that disagreed with the live GearPicked table were re-checked against each directory's own submit or pricing page on 15 November 2026 (IST); SoftwareSuggest's cost text was updated from those official pages. Unverifiable costs are labelled Not stated.
 
 **This is a list of directories, not a ranking.** Priority tiers are GearPicked's editorial starting order (1 = submit first if relevant), not a traffic, Domain Rating or quality score. Domain Rating is omitted because it was not independently verified for this list.
 
@@ -22,7 +22,7 @@ You do not need the service to use this list. A free, no-sign-up [shortlist buil
 - [Contributing](#contributing)
 - [Licence](#licence)
 
-Access, at a glance: 15 free only; 49 free with optional paid upgrades; 20 paid or fee-based; 21 cost not stated on the public page checked; 1 unclear.
+Access, at a glance: 15 free only; 49 free with optional paid upgrades (64 with a free route); 21 paid or fee-based; 21 cost not stated on the public page checked.
 
 ## AI catalogs
 
@@ -32,7 +32,7 @@ Directories and catalogs that mainly list AI tools, agents or GPTs.
 | --- | --- | --- | --- | --- |
 | [FutureTools](https://www.futuretools.io) | Not stated | 1 | Not stated in the checked form | AI catalog with editorial and newly added sections. Form asks for tool details and pricing model; the tool’s own “Free” pricing option is not proof that submission is free. |
 | [There's An AI For That](https://theresanaiforthat.com) | Paid / fee applies | 1 | $49 one-time review; $437 exposure package | URL check on 15 Nov 2026 returned HTTP 403 (host live; common bot protection). AI-specific launch offer with permanent listing.… |
-| [Toolify.ai](https://www.toolify.ai) | Not stated | 1 | Paid route; amount not exposed in retrieved page | URL check on 15 Nov 2026 returned HTTP 403 (host live; common bot protection). Categorized AI catalog with a Just Launched section.… |
+| [Toolify.ai](https://www.toolify.ai) | Paid / fee applies | 1 | Paid route; amount not exposed in retrieved page | Access re-checked 15 Nov 2026 (IST): official submit page describes a paid listing; the dollar amount was still not readable, so no figure is recorded. URL check on 15 Nov 2026 returned HTTP 403 (host live; common bot protection).… |
 | [AI Parabellum](https://aiparabellum.com) | Paid / fee applies | 2 | Basic $39 promotional; Featured $89 promotional | Public AI listing plans; regular crossed-out prices differ. Free eligibility check does not mean free listing. Recheck the promotion before paying. |
 | [AI Respo](https://airespo.com) | Free | 2 | Free | Requires an account and a standalone, functional AI product. Its acceptance criteria rule out unsafe URLs and affiliate links. |
 | [AI Top Tools](https://aitoptools.com) | Paid / fee applies | 2 | Single-directory listing $59 one time | Review your generated listing before payment. The $249 multi-directory service is separate and should not be confused with a single AITopTools listing. |
@@ -67,12 +67,12 @@ Directories and catalogs that mainly list AI tools, agents or GPTs.
 | [AIToolsHunt](https://aitoolshunt.com) | Paid / fee applies | 3 | Standard $5; priority $15; featured $25 per tool | Tool catalog accepts listing requests via its published email workflow, not an online form. No email was sent for this research. |
 | [allaitoollist](https://allaitoollist.com) | Paid / fee applies | 3 | Featured $49; sponsored $149, one time | Public paid listing plans. Homepage audience claims were not measured; choose by category fit, not its asserted visitor count. |
 | [allaiwebsite](https://allaiwebsite.com) | Paid / fee applies | 3 | Fast $79; Verified $279; Featured $399 | Listing plans are distinct from the AI tools’ own prices.… |
-| [allesora](https://allesora.com) | Unclear / see cost | 3 | $0 displayed; billing-card field also shown | Broad AI-tool catalog. A $0 total and required card field both appear; confirm the final terms before providing payment details. No checkout was completed or tested. |
+| [allesora](https://allesora.com) | Not stated | 3 | $0 displayed; billing-card field also shown | Rechecked 15 Nov 2026 (IST): the form still shows a Free option, a $0.00 total and a required card field; final terms remain unverified, so access is Not stated. |
 | [Beyond AI Tools](https://www.beyondaitools.com) | Paid / fee applies | 3 | Basic $9.90; Standard $29.90 per submission | Manually reviewed AI catalog. Page states a full listing-fee refund if not approved; advertising and link claims are not independently tested. |
 | [Dynamite AI](https://www.dynamite-ai.com) | Paid / fee applies | 3 | $5 one time | Tool profile and category placement; the page says publication follows payment. We did not test payment or resulting publication. |
 | [Insidr AI Directory](https://www.insidr.ai/ai-tools) | Not stated | 3 | Not stated in public tool form | AI tool recommendations with human selection. A product’s free/freemium option in the form is not the cost of getting listed. |
 | [ListYourTool](https://www.listyourtool.com) | Free | 3 | Free | AI catalog with a public no-cost listing statement. Team reviews quality and relevance before category publication. |
-| [OpenTools](https://opentools.ai) | Not stated | 3 | Paid listing subscription; amount not exposed | AI-tool and MCP listings have separate routes. The page explicitly requires a paid tool-listing subscription; do not reuse historic free-listing claims. |
+| [OpenTools](https://opentools.ai) | Paid / fee applies | 3 | Paid listing subscription; amount not exposed | Access re-checked 15 Nov 2026 (IST): the official launch-tool page still requires a paid listing subscription; the amount is not exposed before sign-in. Do not reuse historic free-listing claims. |
 | [SeeWhatNewAI](https://seewhatnewai.com) | Free + paid options | 3 | Free queue (site requires Ahrefs DR above 0); $10 paid submission optional | Choose the "Free queue" option, not the link-exchange option. Sign-in required. |
 | [Submit AI Tools](https://submitaitools.org) | Free | 3 | Free ("Add it for free") | General AI tool directory with featured ad slots alongside free listings. |
 | [ThatsMyAI](https://thatsmy.ai) | Free + paid options | 3 | Free; Premium $49.99; Priority $99.99 | Plan table offers a free tool listing; paid promotion tiers are separate. No review-duration claim established. |
@@ -100,7 +100,7 @@ Software and SaaS catalogs, including alternative-finder sites.
 | [Dofollow.Tools](https://dofollow.tools) | Not stated | 3 | Not exposed before submission-type step | Software/AI directory with a two-step URL and submission-type flow. Despite the domain name, we have not verified the attributes of an actual listing link. |
 | [hypertools](https://hypertools.so) | Free + paid options | 3 | Free review submission; featured $99/month | Tool directory for entrepreneurs and creators. Free submission is an application, not acceptance. Paid homepage placement is recurring. |
 | [LibHunt](https://www.libhunt.com) | Not stated | 3 | Not stated in public repository form | Open-source project and library discovery. The submission takes a repository URL, not a generic startup landing page. |
-| [Open Source Alternative](https://www.opensourcealternative.to) | Paid / fee applies | 3 | Waitlist option; priority review +$29 | Only open-source alternatives to proprietary software. Waitlist cost is not explicitly stated; do not infer free from the absence of a price. |
+| [Open Source Alternative](https://www.opensourcealternative.to) | Not stated | 3 | Waitlist option; priority review +$29 | Rechecked 15 Nov 2026 (IST): submit page still offers a 6+ month waitlist with no stated fee, and 48-hour review at +$29. Do not infer that the waitlist is free. |
 | [OpenSaasDirectory](https://opensaas.directory) | Not stated | 3 | Not stated in public submission form | For open-source SaaS projects rather than proprietary apps. Requires project details and adherence to submission guidelines. |
 | [Selljam.ai](https://selljam.ai) | Paid / fee applies | 3 | $19.98 one time promotional | Directory route is distinct from Selljam’s own marketing-software subscription. Tool/startup exposure offer; no checkout performed. |
 
@@ -152,7 +152,7 @@ Software review and buyer-intent marketplaces.
 | [GoodFirms](https://www.goodfirms.co) | Free + paid options | 1 | Free profile ($0, no card); paid sponsorship optional | Best for software and service companies with real clients and reviews; not a quick launch board. |
 | [Crozdesk](https://crozdesk.com) | Free | 2 | Free listing application for software vendors | Business-software buyer directory (states 56,000+ products). Apply via "List your product" on its homepage. |
 | [SaaSworthy](https://www.saasworthy.com) | Free + paid options | 2 | Free listing (site says its experts research your product and list it for free); paid offerings optional | Software review and comparison catalog with SW Score rankings; suits B2B SaaS. |
-| [SoftwareSuggest](https://www.softwaresuggest.com) | Free + paid options | 2 | Free vendor registration; listing fee not established | Business software and service-provider review marketplace. Homepage invites vendors to list and register for free; registration alone does not prove a live approved profile. |
+| [SoftwareSuggest](https://www.softwaresuggest.com) | Free + paid options | 2 | Free listing; optional paid promotion plans (Basic $4,000 / 6 months, Gold $9,000 / 6 months, Platinum $15,000 / 12 months) | Official vendors page and listing guidelines (read 15 Nov 2026, IST) state that you can list a product for free; paid promotion plans are optional. A free registration still does not guarantee a live approved profile. |
 | [apps400](https://apps400.com) | Paid / fee applies | 3 | Editorial review from $49; 12-site package $349 | App review site, not a general AI catalog. Editorial team says it tests products and does not guarantee positive reviews. Use only if a genuine app fits its exclusions. |
 | [appsmamma](https://appsmamma.com) | Free + paid options | 3 | Free review consideration and paid options; network $249 | Only relevant to parenting/kids apps. Public page invites free or paid review consideration; selection is editorial, not a guaranteed listing. |
 | [appsmirror](https://appsmirror.com) | Free + paid options | 3 | Free review consideration; optional network review $249 | Mobile-app editorial review outlet. iPhone, iPad and Android scope; not suitable for every SaaS or AI service. |
