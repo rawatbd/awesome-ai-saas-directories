@@ -1,8 +1,8 @@
 # Awesome AI & SaaS directories
 
-A curated list of **106** AI, SaaS, startup-launch and software-review directories with a working public listing route.
+A curated list of **107** AI, SaaS, startup-launch and software-review directories with a working public listing route.
 
-The names, URLs, categories, priority tiers, costs and notes come from [GearPicked's checked directory list](https://gearpicked.com/directories/), which was source-checked on each directory's own public pages on 9–10 November 2026 (IST). Homepage URLs were rechecked on 15 November 2026 (IST); all 106 hosts responded as live (five returned HTTP 403, which is treated as a live host with bot protection, not a dead link). Two URLs had moved and are listed at their current destinations. Access labels for the five rows that disagreed with the live GearPicked table were re-checked against each directory's own submit or pricing page on 15 November 2026 (IST); SoftwareSuggest's cost text was updated from those official pages. Unverifiable costs are labelled Not stated.
+The original 106 entries come from [GearPicked's checked directory list](https://gearpicked.com/directories/), which was source-checked on each directory's own public pages on 9–10 November 2026 (IST). Homepage URLs were rechecked on 15 November 2026 (IST); all 106 hosts responded as live (five returned HTTP 403, which is treated as a live host with bot protection, not a dead link). Two URLs had moved and are listed at their current destinations. Access labels for the five rows that disagreed with the live GearPicked table were re-checked against each directory's own submit or pricing page on 15 November 2026 (IST); SoftwareSuggest's cost text was updated from those official pages. Unverifiable costs are labelled Not stated.
 
 **This is a list of directories, not a ranking.** Priority tiers are GearPicked's editorial starting order (1 = submit first if relevant), not a traffic, Domain Rating or quality score. Domain Rating is omitted because it was not independently verified for this list.
 
@@ -10,11 +10,11 @@ The names, URLs, categories, priority tiers, costs and notes come from [GearPick
 
 This list is maintained in connection with [GearPicked](https://gearpicked.com/submit/), a manual directory submission service run by BS Rawat. GearPicked offers to submit an AI or SaaS product to these directories by hand ($99 for 100 submissions, or $149 for 200, with screenshot proof). Paid listing fees charged by the directories themselves are not included, approvals and rankings are never guaranteed, and free routes that require a badge or backlink on your site are out of GearPicked's fulfilment scope.
 
-You do not need the service to use this list. A free, no-sign-up [shortlist builder](https://gearpicked.com/directory-shortlist/) will filter and order the same 106 rows in your browser and let you download a tracker CSV. Contributions that meet the [inclusion criteria](CONTRIBUTING.md) are welcome, including corrections from people with no link to GearPicked.
+You do not need the service to use this list. A free, no-sign-up [shortlist builder](https://gearpicked.com/directory-shortlist/) will filter and order the original 106 rows in your browser and let you download a tracker CSV. Contributions that meet the [inclusion criteria](CONTRIBUTING.md) are welcome, including corrections from people with no link to GearPicked.
 
 ## Contents
 
-- [AI catalogs](#ai-catalogs) (54)
+- [AI catalogs](#ai-catalogs) (55)
 - [SaaS directories](#saas-directories) (12)
 - [Startup launch boards](#startup-launch-boards) (30)
 - [Review sites](#review-sites) (10)
@@ -22,7 +22,7 @@ You do not need the service to use this list. A free, no-sign-up [shortlist buil
 - [Contributing](#contributing)
 - [Licence](#licence)
 
-Access, at a glance: 15 free only; 49 free with optional paid upgrades (64 with a free route); 21 paid or fee-based; 21 cost not stated on the public page checked.
+Access, at a glance: 15 free only; 49 free with optional paid upgrades (64 with a free route); 22 paid or fee-based; 21 cost not stated on the public page checked.
 
 ## AI catalogs
 
@@ -45,6 +45,7 @@ Directories and catalogs that mainly list AI tools, agents or GPTs.
 | [Best of AI](https://bestofai.io) | Free | 2 | Free | Manually selected AI catalog. The site checks that the product works and its AI feature is real. Its followed-link wording is an operator statement, not our inspection. |
 | [Best-AI.org](https://best-ai.org/) | Free + paid options | 2 | Free standard review; paid speed-up optional | Primary URL https://www.best-ai-tools.org redirected to https://best-ai.org/ on 15 Nov 2026.… |
 | [Easy With AI](https://easywithai.com) | Paid / fee applies | 2 | Standard tool submission $125 | AI catalog with submission criteria and sponsorship options. Free/open-source product wording is an eligibility description, not proof of a free directory submission. |
+| [European AI Tools](https://europeanaitools.com/) | Paid / fee applies | 2 | €199 one-time Fast Track review; standard submissions temporarily closed | Lists AI software built by businesses based in Europe, including the UK and Switzerland. Approval is editorial; the review fee does not guarantee publication and is refunded if the tool is declined. |
 | [Every AI](https://every-ai.com) | Free + paid options | 2 | Free standard listing; optional $49 Featured | Sign-in required to submit so you can track the review. Duplicate check runs on the URL. |
 | [Intelligent Tools](https://intelligenttools.co) | Free + paid options | 2 | Free; featured $9/month or $89/year | AI tools and deals catalog with a published free listing plan. Featured placement is optional and recurring. |
 | [NavTools AI](https://navtools.ai) | Free + paid options | 2 | Free Basic; Fast Track $29.90 one time; Growth Pro $149 | Published plans separate review speeds. Choose the free route only if the long queue is acceptable. |
@@ -170,7 +171,7 @@ Inclusion, in short:
 
 "Checked" means the cited page was read. It is not a completed submission, a purchase, an acceptance test or proof that every form step works. Some prices are hidden until you create an account or paste a URL; those stay "not stated." Link attributes (dofollow / nofollow) are unverified unless an operator stated them, and those statements were not independently inspected.
 
-The machine-readable copy of this list is in [directories.csv](directories.csv). GearPicked also publishes the same dataset [on its site](https://gearpicked.com/directory-targets.csv) and as a [Zenodo record](https://doi.org/10.5281/zenodo.24180120).
+The machine-readable copy of this list is in [directories.csv](directories.csv). GearPicked also publishes the original dataset [on its site](https://gearpicked.com/directory-targets.csv) and as a [Zenodo record](https://doi.org/10.5281/zenodo.24180120).
 
 ## Contributing
 
