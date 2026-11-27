@@ -16,7 +16,7 @@ You do not need the service to use this list. A free, no-sign-up [shortlist buil
 
 - [AI catalogs](#ai-catalogs) (54)
 - [SaaS directories](#saas-directories) (12)
-- [Startup launch boards](#startup-launch-boards) (30)
+- [Startup launch boards](#startup-launch-boards) (31)
 - [Review sites](#review-sites) (10)
 - [How the list was built](#how-the-list-was-built)
 - [Contributing](#contributing)
@@ -134,6 +134,7 @@ Launch platforms and maker boards where new products are announced.
 | [ListBulb](https://listbulb.com) | Free + paid options | 3 | Free listing; you must upvote 3 products that week to unlock it; $10.50 QuickPass optional | The upvote condition is unusual; we treat it as a free route because no payment or link back is required to be listed. |
 | [PeerPush](https://peerpush.com/) | Free + paid options | 3 | Free or paid; see homepage for current plans | Primary URL https://peerpush.net redirected to https://peerpush.com/ on 15 Nov 2026. Product URL flow includes checking for existing listings and choosing a plan.… |
 | [ProductsFarm](https://productsfarm.com) | Free | 3 | Free to launch | Weekly product board; votes weighted by account age. Also sells a separate paid directory service. |
+| [RadarMakers](https://radarmakers.com) | Free | 3 | Free; the submit page says products can be submitted for free | Maker launch directory with hand reviewed listings and rankings by votes and ratings. Disclosure: this entry is submitted by the RadarMakers team. Checked 27 Nov 2026. |
 | [Roman Launch](https://romanlaunch.com) | Free + paid options | 3 | Free Launch $0 (up to 30 a day after review) | Daily community vote board. |
 | [SemiLaunch](https://semilaunch.com) | Free + paid options | 3 | First launch free; later launches $15 or credits | Every submission is reviewed; a rejected free launch is returned. |
 | [ShipDesk](https://shipdesk.dev) | Free + paid options | 3 | Free to launch; $5.99 fast review, $19.99 featured | Web, iOS, Android and Mac apps; every launch is looked at before going live. |
